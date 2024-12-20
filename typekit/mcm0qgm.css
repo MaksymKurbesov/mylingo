@@ -1,0 +1,22 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * korolev-condensed:
+ *   - http://typekit.com/eulas/00000000000000007735e8c4
+ *
+ * © 2009-2024 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2024-03-06 16:15:14 UTC"}*/
+
+@import url("/typekit/p.css");
+
+@font-face {
+font-family:"korolev-condensed";
+src:url("/typekit/l") format("woff2"),url("/typekit/d") format("woff"),url("/typekit/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+.tk-korolev-condensed { font-family: "korolev-condensed",sans-serif; }

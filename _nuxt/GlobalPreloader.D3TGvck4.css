@@ -1,0 +1,1 @@
+.preloader>*{transform-origin:center}.preloader__inner{animation:fullRotation 30s linear infinite reverse}.preloader__dotted{animation:fullRotation 50s linear infinite}.preloader__outer{animation:fullRotation 5s ease-in-out infinite}
